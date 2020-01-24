@@ -1,0 +1,47 @@
+{
+  "name": "hdw",
+  "version": "1.0.0",
+  "description": "just an test",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-icons": "^3.7.0",
+    "react-leaflet": "^2.4.0",
+    "react-leaflet-markercluster": "^2.0.0-rc3",
+    "react-materialize": "^3.3.4",
+    "react-router": "^5.1.1",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "^3.3.0",
+    "react-spring": "^8.0.27",
+    "styled-components": "^4.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielmengesha/hdw.git"
+  },
+  "author": "dmg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielmengesha/hdw/issues"
+  },
+  "homepage": "https://github.com/danielmengesha/hdw#readme"
+}
